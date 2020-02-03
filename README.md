@@ -51,10 +51,24 @@
         
         
 # 구현 화면
+## 1. 가설 설정
+
 <div align="center">
     <img src="./image/game_youtube_1.jpg", width="700">
+</div>
+
+## 2. 데이터 수집
+<div align="center">
     <img src="./image/game_youtube_2.jpg", width="700">
+</div>
+
+## 3. 데이터 정제
+<div align="center">
     <img src="./image/game_youtube_3.jpg", width="700">
+</div>
+
+## 4. 결과 도출
+<div align="center">
     <img src="./image/game_youtube_4.jpg", width="700">
 </div>
 
